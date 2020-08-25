@@ -1,8 +1,10 @@
 ﻿Sub_region;Region;Kompas;Kompas2
-Abruzzo ;Abruzzo;East;East
-Cerasuolo d’Abruzzo ;Abruzzo;East;East
-Colline Teramane Montepulciano d’Abruzzo ;Abruzzo;East;East
-Controguerra ;Abruzzo;East;East
+Abruzzo;Abruzzo;East;East
+Cerasuolo d’Abruzzo;Abruzzo;East;East
+Colline Teramane Montepulciano d’Abruzzo;Abruzzo;East;East
+Montepulciano d'Abruzzo Colline Teramane;Abruzzo;East;East
+Montepulciano d'Abruzzo;Abruzzo;East;East
+Controguerra;Abruzzo;East;East
 Colli Aprutini;Abruzzo;East;East
 Colli del Sangro;Abruzzo;East;East
 Colline Frentane;Abruzzo;East;East
@@ -11,21 +13,21 @@ Colline Teatine;Abruzzo;East;East
 del Vastese / Histonium;Abruzzo;East;East
 Terre Aquilane / Terre de L’Aquila;Abruzzo;East;East
 Terre di Chieti;Abruzzo;East;East
-Montepulciano d’Abruzzo Colline Teramane ;Abruzzo;East;East
-Montepulciano d’Abruzzo ;Abruzzo;East;East
-Ortona ;Abruzzo;East;East
-Terre Tollesi / Tullum ;Abruzzo;East;East
-Trebbiano d’Abruzzo ;Abruzzo;East;East
-Villamagna ;Abruzzo;East;East
-Aglianico del Vulture ;Basilicata;South;South
-Aglianico del Vulture Superiore ;Basilicata;South;South
-Grottino di Roccanova ;Basilicata;South;South
+Montepulciano d’Abruzzo Colline Teramane;Abruzzo;East;East
+Montepulciano d’Abruzzo;Abruzzo;East;East
+Ortona;Abruzzo;East;East
+Terre Tollesi / Tullum;Abruzzo;East;East
+Trebbiano d’Abruzzo;Abruzzo;East;East
+Villamagna;Abruzzo;East;East
+Aglianico del Vulture;Basilicata;South;South
+Aglianico del Vulture Superiore;Basilicata;South;South
+Grottino di Roccanova;Basilicata;South;South
 Basilicata;Basilicata;South;South
-Matera ;Basilicata;South;South
-Terre dell’Alta Val d’Agri ;Basilicata;South;South
-Bivongi ;Calabria;South;South-west
-Cirò ;Calabria;South;South-west
-Greco di Bianco ;Calabria;South;South-west
+Matera;Basilicata;South;South
+Terre dell’Alta Val d’Agri;Basilicata;South;South
+Bivongi;Calabria;South;South-west
+Cirò;Calabria;South;South-west
+Greco di Bianco;Calabria;South;South-west
 Arghillà;Calabria;South;South-west
 Calabria;Calabria;South;South-west
 Costa Viola;Calabria;South;South-west
@@ -36,25 +38,25 @@ Pellaro;Calabria;South;South-west
 Scilla;Calabria;South;South-west
 Val di Neto;Calabria;South;South-west
 Valdamato;Calabria;South;South-west
-Lamezia ;Calabria;South;South-west
-Melissa ;Calabria;South;South-west
-S. Anna di Isola Capo Rizzuto ;Calabria;South;South-west
-Savuto ;Calabria;South;South-west
-Scavigna ;Calabria;South;South-west
-Terre di Cosenza ;Calabria;South;South-west
-Aglianico del Taburno ;Campania;South;South-west
-Aversa ;Campania;South;South-west
-Campi Flegrei ;Campania;South;South-west
-Capri ;Campania;South;South-west
-Casavecchia di Pontelatone ;Campania;South;South-west
-Castel San Lorenzo ;Campania;South;South-west
-Cilento ;Campania;South;South-west
-Costa d’Amalfi ;Campania;South;South-west
-Falanghina del Sannio ;Campania;South;South-west
-Falerno del Massico ;Campania;South;South-west
-Fiano di Avellino ;Campania;South;South-west
-Galluccio ;Campania;South;South-west
-Greco di Tufo ;Campania;South;South-west
+Lamezia;Calabria;South;South-west
+Melissa;Calabria;South;South-west
+S. Anna di Isola Capo Rizzuto;Calabria;South;South-west
+Savuto;Calabria;South;South-west
+Scavigna;Calabria;South;South-west
+Terre di Cosenza;Calabria;South;South-west
+Aglianico del Taburno;Campania;South;South-west
+Aversa;Campania;South;South-west
+Campi Flegrei;Campania;South;South-west
+Capri;Campania;South;South-west
+Casavecchia di Pontelatone;Campania;South;South-west
+Castel San Lorenzo;Campania;South;South-west
+Cilento;Campania;South;South-west
+Costa d’Amalfi;Campania;South;South-west
+Falanghina del Sannio;Campania;South;South-west
+Falerno del Massico;Campania;South;South-west
+Fiano di Avellino;Campania;South;South-west
+Galluccio;Campania;South;South-west
+Greco di Tufo;Campania;South;South-west
 Benevento / Beneventano;Campania;South;South-west
 Campania;Campania;South;South-west
 Catalanesca del Monte Somma;Campania;South;South-west
@@ -65,25 +67,26 @@ Paestum;Campania;South;South-west
 Pompeiano;Campania;South;South-west
 Roccamonfina;Campania;South;South-west
 Terre del Volturno;Campania;South;South-west
-Irpinia ;Campania;South;South-west
-Ischia ;Campania;South;South-west
-Penisola Sorrentina ;Campania;South;South-west
-Sannio ;Campania;South;South-west
-Taurasi ;Campania;South;South-west
-Vesuvio ;Campania;South;South-west
-Bosco Eliceo ;Emilia Romagna;North;North
-Colli Bolognesi ;Emilia Romagna;North;North
-Colli Bolognesi Pignoletto ;Emilia Romagna;North;North
-Colli d’Imola ;Emilia Romagna;North;North
-Colli di Faenza ;Emilia Romagna;North;North
-Colli di Parma ;Emilia Romagna;North;North
-Colli di Rimini ;Emilia Romagna;North;North
-Colli di Scandiano e di Canossa ;Emilia Romagna;North;North
-Colli Piacentini ;Emilia Romagna;North;North
-Colli Romagna Centrale ;Emilia Romagna;North;North
-Gutturnio ;Emilia Romagna;North;North
+Irpinia;Campania;South;South-west
+Ischia;Campania;South;South-west
+Penisola Sorrentina;Campania;South;South-west
+Sannio;Campania;South;South-west
+Taurasi;Campania;South;South-west
+Vesuvio;Campania;South;South-west
+Bosco Eliceo;Emilia Romagna;North;North
+Colli Bolognesi;Emilia Romagna;North;North
+Colli Bolognesi Pignoletto;Emilia Romagna;North;North
+Colli d’Imola;Emilia Romagna;North;North
+Colli di Faenza;Emilia Romagna;North;North
+Colli di Parma;Emilia Romagna;North;North
+Colli di Rimini;Emilia Romagna;North;North
+Colli di Scandiano e di Canossa;Emilia Romagna;North;North
+Colli Piacentini;Emilia Romagna;North;North
+Colli Romagna Centrale;Emilia Romagna;North;North
+Gutturnio;Emilia Romagna;North;North
 Castelfranco Emilia;Emilia Romagna;North;North
 Emilia / dell’Emilia;Emilia Romagna;North;North
+Emilia;Emilia Romagna;North;North
 Forlì;Emilia Romagna;North;North
 Fortana del Taro;Emilia Romagna;North;North
 Ravenna;Emilia Romagna;North;North
@@ -91,94 +94,94 @@ Rubicone;Emilia Romagna;North;North
 Sillaro / Bianco del Sillaro;Emilia Romagna;North;North
 Terre di Veleja;Emilia Romagna;North;North
 Val Tidone;Emilia Romagna;North;North
-Lambrusco di Sorbara ;Emilia Romagna;North;North
-Lambrusco Grasparossa di Castelvetro ;Emilia Romagna;North;North
-Lambrusco Salamino di Santa Croce ;Emilia Romagna;North;North
-Modena ;Emilia Romagna;North;North
-Ortrugo dei Colli Piacentini ;Emilia Romagna;North;North
-Pignoletto ;Emilia Romagna;North;North
-Reggiano ;Emilia Romagna;North;North
-Reno ;Emilia Romagna;North;North
-Romagna Albana ;Emilia Romagna;North;North
-Romagna ;Emilia Romagna;North;North
-Carso / Carso-Kras ;Friuli-Venezia Giulia;North;North-east
-Colli Orientali del Friuli Picolit ;Friuli-Venezia Giulia;North;North-east
-Collio Goriziano / Collio ;Friuli-Venezia Giulia;North;North-east
-Delle Venezie ;Friuli-Venezia Giulia;North;North-east
-Friuli / Friuli Venezia Giulia ;Friuli-Venezia Giulia;North;North-east
-Friuli Annia ;Friuli-Venezia Giulia;North;North-east
-Friuli Aquileia ;Friuli-Venezia Giulia;North;North-east
-Friuli Colli Orientali ;Friuli-Venezia Giulia;North;North-east
-Friuli Grave ;Friuli-Venezia Giulia;North;North-east
-Friuli Isonzo / Isonzo del Friuli ;Friuli-Venezia Giulia;North;North-east
-Friuli Latisana ;Friuli-Venezia Giulia;North;North-east
+Lambrusco di Sorbara;Emilia Romagna;North;North
+Lambrusco Grasparossa di Castelvetro;Emilia Romagna;North;North
+Lambrusco Salamino di Santa Croce;Emilia Romagna;North;North
+Modena;Emilia Romagna;North;North
+Ortrugo dei Colli Piacentini;Emilia Romagna;North;North
+Pignoletto;Emilia Romagna;North;North
+Reggiano;Emilia Romagna;North;North
+Reno;Emilia Romagna;North;North
+Romagna Albana;Emilia Romagna;North;North
+Romagna;Emilia Romagna;North;North
+Carso / Carso-Kras;Friuli-Venezia Giulia;North;North-east
+Colli Orientali del Friuli Picolit;Friuli-Venezia Giulia;North;North-east
+Collio Goriziano / Collio;Friuli-Venezia Giulia;North;North-east
+Delle Venezie;Friuli-Venezia Giulia;North;North-east
+Friuli / Friuli Venezia Giulia;Friuli-Venezia Giulia;North;North-east
+Friuli Annia;Friuli-Venezia Giulia;North;North-east
+Friuli Aquileia;Friuli-Venezia Giulia;North;North-east
+Friuli Colli Orientali;Friuli-Venezia Giulia;North;North-east
+Friuli Grave;Friuli-Venezia Giulia;North;North-east
+Friuli Isonzo / Isonzo del Friuli;Friuli-Venezia Giulia;North;North-east
+Friuli Latisana;Friuli-Venezia Giulia;North;North-east
 Alto Livenza;Friuli-Venezia Giulia;North;North-east
 delle Venezie (pre-2017);Friuli-Venezia Giulia;North;North-east
 Trevenezie;Friuli-Venezia Giulia;North;North-east
 Venezia Giulia;Friuli-Venezia Giulia;North;North-east
-Lison ;Friuli-Venezia Giulia;North;North-east
-Lison-Pramaggiore ;Friuli-Venezia Giulia;North;North-east
-Prosecco ;Friuli-Venezia Giulia;North;North-east
-Ramandolo ;Friuli-Venezia Giulia;North;North-east
-Rosazzo ;Friuli-Venezia Giulia;North;North-east
-Aleatico di Gradoli ;Lazio;West;West
-Aprilia ;Lazio;West;West
-Atina ;Lazio;West;West
-Bianco Capena ;Lazio;West;West
-Cannellino di Frascati ;Lazio;West;West
-Castelli Romani ;Lazio;West;West
-Cerveteri ;Lazio;West;West
-Cesanese del Piglio / Piglio ;Lazio;West;West
-Cesanese di Affile / Affile ;Lazio;West;West
-Cesanese di Olevano Romano / Olevano Romano ;Lazio;West;West
-Circeo ;Lazio;West;West
-Colli Albani ;Lazio;West;West
-Colli della Sabina ;Lazio;West;West
-Colli Etruschi Viterbesi / Tuscia ;Lazio;West;West
-Colli Lanuvini ;Lazio;West;West
-Cori ;Lazio;West;West
-Est! Est!! Est!!! di Montefiascone ;Lazio;West;West
-Frascati ;Lazio;West;West
-Frascati Superiore ;Lazio;West;West
-Genazzano ;Lazio;West;West
+Lison;Friuli-Venezia Giulia;North;North-east
+Lison-Pramaggiore;Friuli-Venezia Giulia;North;North-east
+Prosecco;Friuli-Venezia Giulia;North;North-east
+Ramandolo;Friuli-Venezia Giulia;North;North-east
+Rosazzo;Friuli-Venezia Giulia;North;North-east
+Aleatico di Gradoli;Lazio;West;West
+Aprilia;Lazio;West;West
+Atina;Lazio;West;West
+Bianco Capena;Lazio;West;West
+Cannellino di Frascati;Lazio;West;West
+Castelli Romani;Lazio;West;West
+Cerveteri;Lazio;West;West
+Cesanese del Piglio / Piglio;Lazio;West;West
+Cesanese di Affile / Affile;Lazio;West;West
+Cesanese di Olevano Romano / Olevano Romano;Lazio;West;West
+Circeo;Lazio;West;West
+Colli Albani;Lazio;West;West
+Colli della Sabina;Lazio;West;West
+Colli Etruschi Viterbesi / Tuscia;Lazio;West;West
+Colli Lanuvini;Lazio;West;West
+Cori;Lazio;West;West
+Est! Est!! Est!!! di Montefiascone;Lazio;West;West
+Frascati;Lazio;West;West
+Frascati Superiore;Lazio;West;West
+Genazzano;Lazio;West;West
 Anagni;Lazio;West;West
 Civitella d’Agliano;Lazio;West;West
 Colli Cimini;Lazio;West;West
 Costa Etrusco Romana;Lazio;West;West
 Frusinate / del Frusinate;Lazio;West;West
 Lazio;Lazio;West;West
-Marino ;Lazio;West;West
-Montecompatri-Colonna / Montecompatri / Colonna ;Lazio;West;West
-Nettuno ;Lazio;West;West
-Orvieto ;Lazio;West;West
-Roma ;Lazio;West;West
-Tarquinia ;Lazio;West;West
-Terracina / Moscato di Terracina ;Lazio;West;West
-Velletri ;Lazio;West;West
-Vignanello ;Lazio;West;West
-Zagarolo ;Lazio;West;West
-Cinque Terre / Cinque Terre Sciacchetrà ;Liguria;North;North-west
-Colli di Luni ;Liguria;North;North-west
-Colline di Levanto ;Liguria;North;North-west
-Golfo del Tigullio–Portofino / Portofino ;Liguria;North;North-west
+Marino;Lazio;West;West
+Montecompatri-Colonna / Montecompatri / Colonna;Lazio;West;West
+Nettuno;Lazio;West;West
+Orvieto;Lazio;West;West
+Roma;Lazio;West;West
+Tarquinia;Lazio;West;West
+Terracina / Moscato di Terracina;Lazio;West;West
+Velletri;Lazio;West;West
+Vignanello;Lazio;West;West
+Zagarolo;Lazio;West;West
+Cinque Terre / Cinque Terre Sciacchetrà;Liguria;North;North-west
+Colli di Luni;Liguria;North;North-west
+Colline di Levanto;Liguria;North;North-west
+Golfo del Tigullio–Portofino / Portofino;Liguria;North;North-west
 Colline del Genovesato;Liguria;North;North-west
 Colline Savonesi;Liguria;North;North-west
 Liguria di Levante;Liguria;North;North-west
 Terrazze dell’Imperiese;Liguria;North;North-west
-Pornassio / Ormeasco di Pornassio ;Liguria;North;North-west
-Riviera Ligure di Ponente ;Liguria;North;North-west
-Rossese di Dolceacqua / Dolceacqua ;Liguria;North;North-west
-Val Polcèvera ;Liguria;North;North-west
-Bonarda dell’Oltrepò Pavese ;Lombardia;North;North
-Botticino ;Lombardia;North;North
-Buttafuoco dell’Oltrepò Pavese / Buttafuoco ;Lombardia;North;North
-Capriano del Colle ;Lombardia;North;North
-Casteggio ;Lombardia;North;North
-Cellatica ;Lombardia;North;North
-Curtefranca ;Lombardia;North;North
-Franciacorta ;Lombardia;North;North
-Garda Colli Mantovani ;Lombardia;North;North
-Garda ;Lombardia;North;North
+Pornassio / Ormeasco di Pornassio;Liguria;North;North-west
+Riviera Ligure di Ponente;Liguria;North;North-west
+Rossese di Dolceacqua / Dolceacqua;Liguria;North;North-west
+Val Polcèvera;Liguria;North;North-west
+Bonarda dell’Oltrepò Pavese;Lombardia;North;North
+Botticino;Lombardia;North;North
+Buttafuoco dell’Oltrepò Pavese / Buttafuoco;Lombardia;North;North
+Capriano del Colle;Lombardia;North;North
+Casteggio;Lombardia;North;North
+Cellatica;Lombardia;North;North
+Curtefranca;Lombardia;North;North
+Franciacorta;Lombardia;North;North
+Garda Colli Mantovani;Lombardia;North;North
+Garda;Lombardia;North;North
 Alpi Retiche;Lombardia;North;North
 Alto Mincio;Lombardia;North;North
 Benaco Bresciano;Lombardia;North;North
@@ -195,155 +198,160 @@ Sebino;Lombardia;North;North
 Terrazze Retiche di Sondrio (pre-2017);Lombardia;North;North
 Terre Lariane;Lombardia;North;North
 Valcamonica;Lombardia;North;North
-Lambrusco Mantovano ;Lombardia;North;North
-Lugana ;Lombardia;North;North
-Oltrepò Pavese ;Lombardia;North;North
-Oltrepò Pavese Metodo Classico ;Lombardia;North;North
-Oltrepò Pavese Pinot Grigio ;Lombardia;North;North
-Pinot Nero dell’Oltrepò Pavese ;Lombardia;North;North
-Riviera del Garda Bresciano / Garda Bresciano  (pre-2017);Lombardia;North;North
-Riviera del Garda Classico ;Lombardia;North;North
-San Colombano al Lambro / San Colombano ;Lombardia;North;North
-San Martino della Battaglia ;Lombardia;North;North
-Sangue di Giuda dell’Oltrepò Pavese / Sangue di Giuda ;Lombardia;North;North
-Scanzo / Moscato di Scanzo ;Lombardia;North;North
-Sforzato di Valtellina / Sfursat di Valtellina ;Lombardia;North;North
-Terre del Colleoni / Colleoni ;Lombardia;North;North
-Valcalepio ;Lombardia;North;North
-Valtellina Rosso / Rosso di Valtellina ;Lombardia;North;North
-Valtellina Superiore ;Lombardia;North;North
-Valtènesi  (pre-2017);Lombardia;North;North
-Bianchello del Metauro ;Marche;East;East
-Castelli di Jesi Verdicchio Riserva ;Marche;East;East
-Colli Maceratesi ;Marche;East;East
-Colli Pesaresi ;Marche;East;East
-Cònero ;Marche;East;East
-Esino ;Marche;East;East
-Falerio ;Marche;East;East
-I Terreni di Sanseverino ;Marche;East;East
+Lambrusco Mantovano;Lombardia;North;North
+Lugana;Lombardia;North;North
+Oltrepò Pavese;Lombardia;North;North
+Oltrepò Pavese Metodo Classico;Lombardia;North;North
+Oltrepò Pavese Pinot Grigio;Lombardia;North;North
+Pinot Nero dell’Oltrepò Pavese;Lombardia;North;North
+Riviera del Garda Bresciano / Garda Bresciano (pre-2017);Lombardia;North;North
+Riviera del Garda Classico;Lombardia;North;North
+San Colombano al Lambro / San Colombano;Lombardia;North;North
+San Martino della Battaglia;Lombardia;North;North
+Sangue di Giuda dell’Oltrepò Pavese / Sangue di Giuda;Lombardia;North;North
+Sangue di Giuda dell'Oltrepo Pavese;Lombardia;North;North
+Scanzo / Moscato di Scanzo;Lombardia;North;North
+Sforzato di Valtellina / Sfursat di Valtellina;Lombardia;North;North
+Sforzato della Valtellina;Lombardia;North;North
+Terre del Colleoni / Colleoni;Lombardia;North;North
+Valcalepio;Lombardia;North;North
+Valtellina;Lombardia;North;North
+Valtellina Rosso / Rosso di Valtellina;Lombardia;North;North
+Valtellina Superiore;Lombardia;North;North
+Valtènesi (pre-2017);Lombardia;North;North
+Bianchello del Metauro;Marche;East;East
+Castelli di Jesi Verdicchio Riserva;Marche;East;East
+Colli Maceratesi;Marche;East;East
+Colli Pesaresi;Marche;East;East
+Cònero;Marche;East;East
+Esino;Marche;East;East
+Falerio;Marche;East;East
+I Terreni di Sanseverino;Marche;East;East
 Marche;Marche;East;East
-Lacrima di Morro / Lacrima di Morro d’Alba ;Marche;East;East
-Offida ;Marche;East;East
-Pergola ;Marche;East;East
-Rosso Cònero ;Marche;East;East
-Rosso Piceno / Piceno ;Marche;East;East
-San Ginesio ;Marche;East;East
-Serrapetrona ;Marche;East;East
-Terre di Offida ;Marche;East;East
-Verdicchio dei Castelli di Jesi ;Marche;East;East
-Verdicchio di Matelica ;Marche;East;East
-Verdicchio di Matelica Riserva ;Marche;East;East
-Vernaccia di Serrapetrona ;Marche;East;East
-Biferno ;Molise;East;East
+Lacrima di Morro / Lacrima di Morro d’Alba;Marche;East;East
+Offida;Marche;East;East
+Pergola;Marche;East;East
+Rosso Conero;Marche;East;East
+Rosso Cònero;Marche;East;East
+Rosso Piceno / Piceno;Marche;East;East
+San Ginesio;Marche;East;East
+Serrapetrona;Marche;East;East
+Terre di Offida;Marche;East;East
+Verdicchio dei Castelli di Jesi;Marche;East;East
+Verdicchio di Matelica;Marche;East;East
+Verdicchio di Matelica Riserva;Marche;East;East
+Vernaccia di Serrapetrona;Marche;East;East
+Biferno;Molise;East;East
 Osco / Terre degli Osci;Molise;East;East
 Rotae;Molise;East;East
-Molise ;Molise;East;East
-Pentro di Isernia / Pentro ;Molise;East;East
-Tintilia del Molise ;Molise;East;East
-Alba ;Piemonte;North;North-west
-Albugnano ;Piemonte;North;North-west
-Alta Langa ;Piemonte;North;North-west
-Asti ;Piemonte;North;North-west
-Barbaresco ;Piemonte;North;North-west
-Barbera d’Alba ;Piemonte;North;North-west
-Barbera d’Asti ;Piemonte;North;North-west
-Barbera del Monferrato ;Piemonte;North;North-west
-Barbera del Monferrato Superiore ;Piemonte;North;North-west
-Barolo ;Piemonte;North;North-west
-Boca ;Piemonte;North;North-west
-Brachetto d’Acqui / Acqui ;Piemonte;North;North-west
-Bramaterra ;Piemonte;North;North-west
-Calosso ;Piemonte;North;North-west
-Canavese ;Piemonte;North;North-west
-Carema ;Piemonte;North;North-west
-Cisterna d’Asti ;Piemonte;North;North-west
-Colli Tortonesi ;Piemonte;North;North-west
-Collina Torinese ;Piemonte;North;North-west
-Colline Novaresi ;Piemonte;North;North-west
-Colline Saluzzesi ;Piemonte;North;North-west
-Cortese dell’Alto Monferrato ;Piemonte;North;North-west
-Coste della Sesia ;Piemonte;North;North-west
-Dogliani ;Piemonte;North;North-west
-Dolcetto d’Acqui ;Piemonte;North;North-west
-Dolcetto d’Alba ;Piemonte;North;North-west
-Dolcetto d’Asti ;Piemonte;North;North-west
-Dolcetto di Diano d’Alba / Diano d’Alba ;Piemonte;North;North-west
-Dolcetto di Ovada ;Piemonte;North;North-west
-Dolcetto di Ovada Superiore / Ovada ;Piemonte;North;North-west
-Erbaluce di Caluso / Caluso ;Piemonte;North;North-west
-Fara ;Piemonte;North;North-west
-Freisa d’Asti ;Piemonte;North;North-west
-Freisa di Chieri ;Piemonte;North;North-west
-Gabiano ;Piemonte;North;North-west
-Gattinara ;Piemonte;North;North-west
-Gavi / Cortese di Gavi ;Piemonte;North;North-west
-Ghemme ;Piemonte;North;North-west
-Grignolino d’Asti ;Piemonte;North;North-west
-Grignolino del Monferrato Casalese ;Piemonte;North;North-west
-Langhe ;Piemonte;North;North-west
-Lessona ;Piemonte;North;North-west
-Loazzolo ;Piemonte;North;North-west
-Malvasia di Casorzo d’Asti / Malvasia di Casorzo / Casorzo ;Piemonte;North;North-west
-Malvasia di Castelnuovo Don Bosco ;Piemonte;North;North-west
-Monferrato ;Piemonte;North;North-west
-Nebbiolo d’Alba ;Piemonte;North;North-west
-Nizza ;Piemonte;North;North-west
-Piemonte ;Piemonte;North;North-west
-Pinerolese ;Piemonte;North;North-west
-Roero ;Piemonte;North;North-west
-Rubino di Cantavenna ;Piemonte;North;North-west
-Ruchè di Castagnole Monferrato ;Piemonte;North;North-west
-Sizzano ;Piemonte;North;North-west
-Strevi ;Piemonte;North;North-west
-Terre Alfieri ;Piemonte;North;North-west
-Valli Ossolane ;Piemonte;North;North-west
-Valsusa ;Piemonte;North;North-west
-Verduno Pelaverga / Verduno ;Piemonte;North;North-west
-Aleatico di Puglia ;Puglia;East;South-east
-Alezio ;Puglia;East;South-east
-Barletta ;Puglia;East;South-east
-Brindisi ;Puglia;East;South-east
-Cacc’è Mmitte di Lucera ;Puglia;East;South-east
-Castel del Monte Bombino Nero ;Puglia;East;South-east
-Castel del Monte ;Puglia;East;South-east
-Castel del Monte Nero di Troia Riserva ;Puglia;East;South-east
-Castel del Monte Rosso Riserva ;Puglia;East;South-east
-Colline Joniche Tarantine ;Puglia;East;South-east
-Copertino ;Puglia;East;South-east
-Galatina ;Puglia;East;South-east
-Gioia del Colle ;Puglia;East;South-east
-Gravina ;Puglia;East;South-east
+Molise;Molise;East;East
+Pentro di Isernia / Pentro;Molise;East;East
+Tintilia del Molise;Molise;East;East
+Alba;Piemonte;North;North-west
+Albugnano;Piemonte;North;North-west
+Alta Langa;Piemonte;North;North-west
+Asti;Piemonte;North;North-west
+Barbaresco;Piemonte;North;North-west
+Barbera d'Alba;Piemonte;North;North-west
+Barbera d’Alba;Piemonte;North;North-west
+Barbera d'Asti;Piemonte;North;North-west
+Barbera del Monferrato;Piemonte;North;North-west
+Barbera del Monferrato Superiore;Piemonte;North;North-west
+Barolo;Piemonte;North;North-west
+Boca;Piemonte;North;North-west
+Brachetto d’Acqui / Acqui;Piemonte;North;North-west
+Bramaterra;Piemonte;North;North-west
+Calosso;Piemonte;North;North-west
+Canavese;Piemonte;North;North-west
+Carema;Piemonte;North;North-west
+Cisterna d’Asti;Piemonte;North;North-west
+Colli Tortonesi;Piemonte;North;North-west
+Collina Torinese;Piemonte;North;North-west
+Colline Novaresi;Piemonte;North;North-west
+Colline Saluzzesi;Piemonte;North;North-west
+Cortese dell’Alto Monferrato;Piemonte;North;North-west
+Coste della Sesia;Piemonte;North;North-west
+Dogliani;Piemonte;North;North-west
+Dolcetto d’Acqui;Piemonte;North;North-west
+Dolcetto d’Alba;Piemonte;North;North-west
+Dolcetto d’Asti;Piemonte;North;North-west
+Dolcetto di Diano d’Alba / Diano d’Alba;Piemonte;North;North-west
+Dolcetto di Ovada;Piemonte;North;North-west
+Dolcetto di Ovada Superiore / Ovada;Piemonte;North;North-west
+Erbaluce di Caluso / Caluso;Piemonte;North;North-west
+Fara;Piemonte;North;North-west
+Freisa d’Asti;Piemonte;North;North-west
+Freisa di Chieri;Piemonte;North;North-west
+Gabiano;Piemonte;North;North-west
+Gattinara;Piemonte;North;North-west
+Gavi / Cortese di Gavi;Piemonte;North;North-west
+Ghemme;Piemonte;North;North-west
+Grignolino d’Asti;Piemonte;North;North-west
+Grignolino del Monferrato Casalese;Piemonte;North;North-west
+Langhe;Piemonte;North;North-west
+Lessona;Piemonte;North;North-west
+Loazzolo;Piemonte;North;North-west
+Malvasia di Casorzo d’Asti / Malvasia di Casorzo / Casorzo;Piemonte;North;North-west
+Malvasia di Castelnuovo Don Bosco;Piemonte;North;North-west
+Monferrato;Piemonte;North;North-west
+Nebbiolo d’Alba;Piemonte;North;North-west
+Nizza;Piemonte;North;North-west
+Piemonte;Piemonte;North;North-west
+Pinerolese;Piemonte;North;North-west
+Roero;Piemonte;North;North-west
+Rubino di Cantavenna;Piemonte;North;North-west
+Ruchè di Castagnole Monferrato;Piemonte;North;North-west
+Sizzano;Piemonte;North;North-west
+Strevi;Piemonte;North;North-west
+Terre Alfieri;Piemonte;North;North-west
+Valli Ossolane;Piemonte;North;North-west
+Valsusa;Piemonte;North;North-west
+Verduno Pelaverga / Verduno;Piemonte;North;North-west
+Aleatico di Puglia;Puglia;East;South-east
+Alezio;Puglia;East;South-east
+Barletta;Puglia;East;South-east
+Brindisi;Puglia;East;South-east
+Cacc’è Mmitte di Lucera;Puglia;East;South-east
+Castel del Monte Bombino Nero;Puglia;East;South-east
+Castel del Monte;Puglia;East;South-east
+Castel del Monte Nero di Troia Riserva;Puglia;East;South-east
+Castel del Monte Rosso Riserva;Puglia;East;South-east
+Colline Joniche Tarantine;Puglia;East;South-east
+Copertino;Puglia;East;South-east
+Galatina;Puglia;East;South-east
+Gioia del Colle;Puglia;East;South-east
+Gravina;Puglia;East;South-east
 Daunia;Puglia;East;South-east
 Murgia;Puglia;East;South-east
 Puglia;Puglia;East;South-east
 Salento;Puglia;East;South-east
 Tarantino;Puglia;East;South-east
 Valle d’Itria;Puglia;East;South-east
-Leverano ;Puglia;East;South-east
-Lizzano ;Puglia;East;South-east
-Locorotondo ;Puglia;East;South-east
-Martina / Martina Franca ;Puglia;East;South-east
-Matino ;Puglia;East;South-east
-Moscato di Trani ;Puglia;East;South-east
-Nardò ;Puglia;East;South-east
-Negroamaro di Terra d’Otranto ;Puglia;East;South-east
-Orta Nova ;Puglia;East;South-east
-Ostuni ;Puglia;East;South-east
-Primitivo di Manduria ;Puglia;East;South-east
-Primitivo di Manduria Dolce Naturale ;Puglia;East;South-east
-Rosso di Cerignola ;Puglia;East;South-east
-Salice Salentino ;Puglia;East;South-east
-San Severo ;Puglia;East;South-east
-Squinzano ;Puglia;East;South-east
-Tavoliere delle Puglie / Tavoliere ;Puglia;East;South-east
-Terra d’Otranto ;Puglia;East;South-east
-Alghero ;Sardegna;West;West
-Arborea ;Sardegna;West;West
-Cagliari ;Sardegna;West;West
-Campidano di Terralba / Terralba ;Sardegna;West;West
-Cannonau di Sardegna ;Sardegna;West;West
-Carignano del Sulcis ;Sardegna;West;West
-Girò di Cagliari ;Sardegna;West;West
+Leverano;Puglia;East;South-east
+Lizzano;Puglia;East;South-east
+Locorotondo;Puglia;East;South-east
+Martina / Martina Franca;Puglia;East;South-east
+Matino;Puglia;East;South-east
+Moscato di Trani;Puglia;East;South-east
+Nardò;Puglia;East;South-east
+Negroamaro di Terra d’Otranto;Puglia;East;South-east
+Orta Nova;Puglia;East;South-east
+Ostuni;Puglia;East;South-east
+Primitivo di Manduria;Puglia;East;South-east
+Primitivo di Manduria Dolce Naturale;Puglia;East;South-east
+Rosso di Cerignola;Puglia;East;South-east
+Salice Salentino;Puglia;East;South-east
+San Severo;Puglia;East;South-east
+Squinzano;Puglia;East;South-east
+Tavoliere delle Puglie / Tavoliere;Puglia;East;South-east
+Terra d’Otranto;Puglia;East;South-east
+Alghero;Sardegna;West;West
+Arborea;Sardegna;West;West
+Cagliari;Sardegna;West;West
+Campidano di Terralba / Terralba;Sardegna;West;West
+Cannonau di Sardegna;Sardegna;West;West
+Carignano del Sulcis;Sardegna;West;West
+Girò di Cagliari;Sardegna;West;West
 Barbagia;Sardegna;West;West
 Colli del Limbara;Sardegna;West;West
 Isola dei Nuraghi;Sardegna;West;West
@@ -359,26 +367,26 @@ Tharros;Sardegna;West;West
 Trexenta;Sardegna;West;West
 Valle del Tirso;Sardegna;West;West
 Valli di Porto Pino;Sardegna;West;West
-Malvasia di Bosa ;Sardegna;West;West
-Mandrolisai ;Sardegna;West;West
-Monica di Sardegna ;Sardegna;West;West
-Moscato di Sardegna ;Sardegna;West;West
-Moscato di Sorso-Sennori / Moscato di Sennori / Moscato di Sorso ;Sardegna;West;West
-Nasco di Cagliari ;Sardegna;West;West
-Nuragus di Cagliari ;Sardegna;West;West
-Sardegna Semidano ;Sardegna;West;West
-Vermentino di Gallura ;Sardegna;West;West
-Vermentino di Sardegna ;Sardegna;West;West
-Vernaccia di Oristano ;Sardegna;West;West
-Alcamo ;Sicilia;South;South
-Cerasuolo di Vittoria ;Sicilia;South;South
-Contea di Sclafani / Valledolmo–Contea di Sclafani ;Sicilia;South;South
-Contessa Entellina ;Sicilia;South;South
-Delia Nivolelli ;Sicilia;South;South
-Eloro ;Sicilia;South;South
-Erice ;Sicilia;South;South
-Etna ;Sicilia;South;South
-Faro ;Sicilia;South;South
+Malvasia di Bosa;Sardegna;West;West
+Mandrolisai;Sardegna;West;West
+Monica di Sardegna;Sardegna;West;West
+Moscato di Sardegna;Sardegna;West;West
+Moscato di Sorso-Sennori / Moscato di Sennori / Moscato di Sorso;Sardegna;West;West
+Nasco di Cagliari;Sardegna;West;West
+Nuragus di Cagliari;Sardegna;West;West
+Sardegna Semidano;Sardegna;West;West
+Vermentino di Gallura;Sardegna;West;West
+Vermentino di Sardegna;Sardegna;West;West
+Vernaccia di Oristano;Sardegna;West;West
+Alcamo;Sicilia;South;South
+Cerasuolo di Vittoria;Sicilia;South;South
+Contea di Sclafani / Valledolmo–Contea di Sclafani;Sicilia;South;South
+Contessa Entellina;Sicilia;South;South
+Delia Nivolelli;Sicilia;South;South
+Eloro;Sicilia;South;South
+Erice;Sicilia;South;South
+Etna;Sicilia;South;South
+Faro;Sicilia;South;South
 Avola;Sicilia;South;South
 Camarro;Sicilia;South;South
 Fontanarossa di Cerda;Sicilia;South;South
@@ -386,133 +394,140 @@ Salemi;Sicilia;South;South
 Salina;Sicilia;South;South
 Terre Siciliane;Sicilia;South;South
 Valle Belice;Sicilia;South;South
-Malvasia delle Lipari ;Sicilia;South;South
-Mamertino di Milazzo / Mamertino ;Sicilia;South;South
-Marsala ;Sicilia;South;South
-Menfi ;Sicilia;South;South
-Monreale ;Sicilia;South;South
-Noto ;Sicilia;South;South
-Pantelleria ;Sicilia;South;South
-Riesi ;Sicilia;South;South
-Salaparuta ;Sicilia;South;South
-Sambuca di Sicilia ;Sicilia;South;South
-Santa Margherita di Belice ;Sicilia;South;South
-Sciacca ;Sicilia;South;South
-Sicilia ;Sicilia;South;South
-Siracusa ;Sicilia;South;South
-Vittoria ;Sicilia;South;South
-Ansonica Costa dell’Argentario ;Toscana;North;North-west
-Barco Reale di Carmignano ;Toscana;North;North-west
-Bianco dell’Empolese ;Toscana;North;North-west
-Bianco di Pitigliano ;Toscana;North;North-west
-Bolgheri ;Toscana;North;North-west
-Bolgheri Sassicaia ;Toscana;North;North-west
-Brunello di Montalcino ;Toscana;North;North-west
-Candia dei Colli Apuani ;Toscana;North;North-west
-Capalbio ;Toscana;North;North-west
-Carmignano ;Toscana;North;North-west
-Chianti Classico ;Toscana;North;North-west
-Chianti ;Toscana;North;North-west
-Colli dell’Etruria Centrale ;Toscana;North;North-west
-Colli di Luni ;Toscana;North;North-west
-Colline Lucchesi ;Toscana;North;North-west
-Cortona ;Toscana;North;North-west
-Elba Aleatico Passito / Aleatico Passito dell’Elba ;Toscana;North;North-west
-Elba ;Toscana;North;North-west
-Grance Senesi ;Toscana;North;North-west
+Malvasia delle Lipari;Sicilia;South;South
+Mamertino di Milazzo / Mamertino;Sicilia;South;South
+Marsala;Sicilia;South;South
+Menfi;Sicilia;South;South
+Monreale;Sicilia;South;South
+Noto;Sicilia;South;South
+Pantelleria;Sicilia;South;South
+Riesi;Sicilia;South;South
+Salaparuta;Sicilia;South;South
+Sambuca di Sicilia;Sicilia;South;South
+Santa Margherita di Belice;Sicilia;South;South
+Sciacca;Sicilia;South;South
+Sicilia;Sicilia;South;South
+Siracusa;Sicilia;South;South
+Vittoria;Sicilia;South;South
+Ansonica Costa dell’Argentario;Toscana;North;North-west
+Barco Reale di Carmignano;Toscana;North;North-west
+Bianco dell’Empolese;Toscana;North;North-west
+Bianco di Pitigliano;Toscana;North;North-west
+Bolgheri;Toscana;North;North-west
+Bolgheri Sassicaia;Toscana;North;North-west
+Bolgheri Superiore;Toscana;North;North-west
+Brunello di Montalcino;Toscana;North;North-west
+Candia dei Colli Apuani;Toscana;North;North-west
+Capalbio;Toscana;North;North-west
+Carmignano;Toscana;North;North-west
+Chianti Classico;Toscana;North;North-west
+Chianti;Toscana;North;North-west
+Colli dell’Etruria Centrale;Toscana;North;North-west
+Colli di Luni;Toscana;North;North-west
+Colline Lucchesi;Toscana;North;North-west
+Cortona;Toscana;North;North-west
+Elba Aleatico Passito / Aleatico Passito dell’Elba;Toscana;North;North-west
+Elba;Toscana;North;North-west
+Grance Senesi;Toscana;North;North-west
 Alta Valle della Greve;Toscana;North;North-west
 Colli della Toscana Centrale;Toscana;North;North-west
 Costa Toscana;Toscana;North;North-west
 Montecastelli;Toscana;North;North-west
-Toscano / Toscana;Toscana;North;North-west
+Toscano;Toscana;North;North-west
+Toscana;Toscana;North;North-west
 Val di Magra;Toscana;North;North-west
-Maremma Toscana ;Toscana;North;North-west
-Montecarlo ;Toscana;North;North-west
-Montecucco ;Toscana;North;North-west
-Montecucco Sangiovese ;Toscana;North;North-west
-Monteregio di Massa Marittima ;Toscana;North;North-west
-Montescudaio ;Toscana;North;North-west
-Morellino di Scansano ;Toscana;North;North-west
-Moscadello di Montalcino ;Toscana;North;North-west
-Orcia ;Toscana;North;North-west
-Parrina ;Toscana;North;North-west
-Pomino ;Toscana;North;North-west
-Rosso di Montalcino ;Toscana;North;North-west
-Rosso di Montepulciano ;Toscana;North;North-west
-San Gimignano ;Toscana;North;North-west
-San Torpè ;Toscana;North;North-west
-Sant’Antimo ;Toscana;North;North-west
-Sovana ;Toscana;North;North-west
-Suvereto ;Toscana;North;North-west
-Terratico di Bibbona ;Toscana;North;North-west
-Terre di Casole ;Toscana;North;North-west
-Terre di Pisa ;Toscana;North;North-west
-Val d’Arbia ;Toscana;North;North-west
-Val d’Arno di Sopra / Valdarno di Sopra ;Toscana;North;North-west
-Val di Cornia ;Toscana;North;North-west
-Val di Cornia Rosso / Rosso della Val di Cornia ;Toscana;North;North-west
-Valdichiana Toscana ;Toscana;North;North-west
-Valdinievole ;Toscana;North;North-west
-Vernaccia di San Gimignano ;Toscana;North;North-west
-Vin Santo del Chianti Classico ;Toscana;North;North-west
-Vin Santo del Chianti ;Toscana;North;North-west
-Vin Santo di Carmignano ;Toscana;North;North-west
-Vin Santo di Montepulciano ;Toscana;North;North-west
-Vino Nobile di Montepulciano ;Toscana;North;North-west
-Alto Adige / Südtirol ;Trentino-Alto Adige;North;North-east
-Casteller ;Trentino-Alto Adige;North;North-east
-Delle Venezie ;Trentino-Alto Adige;North;North-east
+Maremma Toscana;Toscana;North;North-west
+Montecarlo;Toscana;North;North-west
+Montecucco;Toscana;North;North-west
+Montecucco Sangiovese;Toscana;North;North-west
+Monteregio di Massa Marittima;Toscana;North;North-west
+Montescudaio;Toscana;North;North-west
+Morellino di Scansano;Toscana;North;North-west
+Moscadello di Montalcino;Toscana;North;North-west
+Orcia;Toscana;North;North-west
+Parrina;Toscana;North;North-west
+Pomino;Toscana;North;North-west
+Rosso di Montalcino;Toscana;North;North-west
+Rosso di Montepulciano;Toscana;North;North-west
+San Gimignano;Toscana;North;North-west
+San Torpè;Toscana;North;North-west
+Sant’Antimo;Toscana;North;North-west
+Sovana;Toscana;North;North-west
+Suvereto;Toscana;North;North-west
+Terratico di Bibbona;Toscana;North;North-west
+Terre di Casole;Toscana;North;North-west
+Terre di Pisa;Toscana;North;North-west
+Val d’Arbia;Toscana;North;North-west
+Val d’Arno di Sopra / Valdarno di Sopra;Toscana;North;North-west
+Val di Cornia;Toscana;North;North-west
+Val di Cornia Rosso / Rosso della Val di Cornia;Toscana;North;North-west
+Valdichiana Toscana;Toscana;North;North-west
+Valdinievole;Toscana;North;North-west
+Vernaccia di San Gimignano;Toscana;North;North-west
+Vin Santo del Chianti Classico;Toscana;North;North-west
+Vin Santo del Chianti;Toscana;North;North-west
+Vin Santo di Carmignano;Toscana;North;North-west
+Vin Santo di Montepulciano;Toscana;North;North-west
+Vino Nobile di Montepulciano;Toscana;North;North-west
+Alto Adige / Südtirol;Trentino-Alto Adige;North;North-east
+SÃ¼dtirol - Alto Adige;Trentino-Alto Adige;North;North-east
+Casteller;Trentino-Alto Adige;North;North-east
+Delle Venezie;Trentino-Alto Adige;North;North-east
 delle Venezie (pre-2017);Trentino-Alto Adige;North;North-east
 Mitterberg;Trentino-Alto Adige;North;North-east
 Trevenezie;Trentino-Alto Adige;North;North-east
 Vallagarina;Trentino-Alto Adige;North;North-east
 Vigneti delle Dolomiti / Weinberg Dolomiten;Trentino-Alto Adige;North;North-east
-Lago di Caldaro / Caldaro / Kalterersee / Kalterer ;Trentino-Alto Adige;North;North-east
-Teroldego Rotaliano ;Trentino-Alto Adige;North;North-east
-Trentino ;Trentino-Alto Adige;North;North-east
-Trento ;Trentino-Alto Adige;North;North-east
-Valdadige / Etschtaler ;Trentino-Alto Adige;North;North-east
-Valdadige Terradeiforti / Terradeiforti ;Trentino-Alto Adige;North;North-east
-Amelia ;Umbria;Central;Central
-Assisi ;Umbria;Central;Central
-Colli Altotiberini ;Umbria;Central;Central
-Colli del Trasimeno / Trasimeno ;Umbria;Central;Central
-Colli Martani ;Umbria;Central;Central
-Colli Perugini ;Umbria;Central;Central
+Lago di Caldaro / Caldaro / Kalterersee / Kalterer;Trentino-Alto Adige;North;North-east
+Teroldego Rotaliano;Trentino-Alto Adige;North;North-east
+Trentino;Trentino-Alto Adige;North;North-east
+Trento;Trentino-Alto Adige;North;North-east
+Valdadige / Etschtaler;Trentino-Alto Adige;North;North-east
+Valdadige Terradeiforti / Terradeiforti;Trentino-Alto Adige;North;North-east
+Amelia;Umbria;Central;Central
+Assisi;Umbria;Central;Central
+Colli Altotiberini;Umbria;Central;Central
+Colli del Trasimeno / Trasimeno;Umbria;Central;Central
+Colli Martani;Umbria;Central;Central
+Colli Perugini;Umbria;Central;Central
 Allerona;Umbria;Central;Central
 Bettona;Umbria;Central;Central
 Cannara;Umbria;Central;Central
 Narni;Umbria;Central;Central
 Spello;Umbria;Central;Central
 Umbria;Umbria;Central;Central
-Lago di Corbara ;Umbria;Central;Central
-Montefalco ;Umbria;Central;Central
-Montefalco Sagrantino ;Umbria;Central;Central
-Orvieto ;Umbria;Central;Central
-Rosso Orvietano / Orvietano Rosso ;Umbria;Central;Central
-Spoleto ;Umbria;Central;Central
-Todi ;Umbria;Central;Central
-Torgiano ;Umbria;Central;Central
-Torgiano Rosso Riserva ;Umbria;Central;Central
-Valle d’Aosta / Vallée d’Aoste ;Valle d’Aosta;North;North-west
-Amarone della Valpolicella ;Veneto;North;North-east
-Arcole ;Veneto;North;North-east
-Asolo Prosecco ;Veneto;North;North-east
-Bagnoli di Sopra / Bagnoli ;Veneto;North;North-east
-Bagnoli Friularo / Friularo di Bagnoli ;Veneto;North;North-east
-Bardolino ;Veneto;North;North-east
-Bardolino Superiore ;Veneto;North;North-east
-Breganze ;Veneto;North;North-east
-Colli Berici ;Veneto;North;North-east
-Colli di Conegliano ;Veneto;North;North-east
-Colli Euganei ;Veneto;North;North-east
-Colli Euganei Fior d’Arancio / Fior d’Arancio Colli Euganei ;Veneto;North;North-east
-Conegliano Valdobbiadene Prosecco ;Veneto;North;North-east
-Corti Benedettine del Padovano ;Veneto;North;North-east
-Custoza / Bianco di Custoza ;Veneto;North;North-east
-Delle Venezie ;Veneto;North;North-east
-Gambellara ;Veneto;North;North-east
-Garda ;Veneto;North;North-east
+Lago di Corbara;Umbria;Central;Central
+Montefalco;Umbria;Central;Central
+Montefalco Sagrantino;Umbria;Central;Central
+Orvieto;Umbria;Central;Central
+Rosso Orvietano / Orvietano Rosso;Umbria;Central;Central
+Spoleto;Umbria;Central;Central
+Todi;Umbria;Central;Central
+Torgiano;Umbria;Central;Central
+Torgiano Rosso Riserva;Umbria;Central;Central
+Vallée d’Aoste;Valle d’Aosta;North;North-west
+Valle d'Aosta;Valle d’Aosta;North;North-west
+Valle d’Aosta;Valle d’Aosta;North;North-west
+Amarone della Valpolicella Classico;Veneto;North;North-east
+Amarone della Valpolicella Valpantena;Veneto;North;North-east
+Amarone della Valpolicella;Veneto;North;North-east
+Arcole;Veneto;North;North-east
+Asolo Prosecco;Veneto;North;North-east
+Bagnoli di Sopra / Bagnoli;Veneto;North;North-east
+Bagnoli Friularo / Friularo di Bagnoli;Veneto;North;North-east
+Bardolino;Veneto;North;North-east
+Bardolino Superiore;Veneto;North;North-east
+Breganze;Veneto;North;North-east
+Colli Berici;Veneto;North;North-east
+Colli di Conegliano;Veneto;North;North-east
+Colli Euganei;Veneto;North;North-east
+Colli Euganei Fior d’Arancio / Fior d’Arancio Colli Euganei;Veneto;North;North-east
+Conegliano Valdobbiadene Prosecco;Veneto;North;North-east
+Corti Benedettine del Padovano;Veneto;North;North-east
+Custoza / Bianco di Custoza;Veneto;North;North-east
+Delle Venezie;Veneto;North;North-east
+Gambellara;Veneto;North;North-east
+Garda;Veneto;North;North-east
 Alto Livenza;Veneto;North;North-east
 Colli Trevigiani;Veneto;North;North-east
 Conselvano;Veneto;North;North-east
@@ -522,30 +537,35 @@ Trevenezie;Veneto;North;North-east
 Vallagarina;Veneto;North;North-east
 Veneto;Veneto;North;North-east
 Veneto Orientale;Veneto;North;North-east
+Verona;Veneto;North;North-east
 Verona / Provincia di Verona / Veronese;Veneto;North;North-east
+Rosso Veronese;Veneto;North;North-east
 Vigneti delle Dolomiti / Weinberg Dolomiten;Veneto;North;North-east
-Lessini Durello / Durello Lessini ;Veneto;North;North-east
-Lison ;Veneto;North;North-east
-Lison-Pramaggiore ;Veneto;North;North-east
-Lugana ;Veneto;North;North-east
-Merlara ;Veneto;North;North-east
-Montello Rosso / Montello ;Veneto;North;North-east
-Montello–Colli Asolani ;Veneto;North;North-east
-Monti Lessini ;Veneto;North;North-east
-Piave ;Veneto;North;North-east
-Piave Malanotte / Malanotte del Piave ;Veneto;North;North-east
-Prosecco ;Veneto;North;North-east
-Recioto della Valpolicella ;Veneto;North;North-east
-Recioto di Gambellara ;Veneto;North;North-east
-Recioto di Soave ;Veneto;North;North-east
-Riviera del Brenta ;Veneto;North;North-east
-San Martino della Battaglia ;Veneto;North;North-east
-Soave ;Veneto;North;North-east
-Soave Superiore ;Veneto;North;North-east
-Valdadige / Etschtaler ;Veneto;North;North-east
-Valdadige Terradeiforti / Terradeiforti ;Veneto;North;North-east
-Valpolicella ;Veneto;North;North-east
-Valpolicella Ripasso ;Veneto;North;North-east
-Venezia ;Veneto;North;North-east
-Vicenza ;Veneto;North;North-east
-Vigneti della Serenissima / Serenissima ;Veneto;North;North-east
+Vigneti delle Dolomiti;Veneto;North;North-east
+Lessini Durello / Durello Lessini;Veneto;North;North-east
+Lison;Veneto;North;North-east
+Lison-Pramaggiore;Veneto;North;North-east
+Lugana;Veneto;North;North-east
+Merlara;Veneto;North;North-east
+Montello Rosso / Montello;Veneto;North;North-east
+Montello–Colli Asolani;Veneto;North;North-east
+Monti Lessini;Veneto;North;North-east
+Piave;Veneto;North;North-east
+Piave Malanotte / Malanotte del Piave;Veneto;North;North-east
+Prosecco;Veneto;North;North-east
+Recioto della Valpolicella;Veneto;North;North-east
+Recioto della Valpolicella Classico;Veneto;North;North-east
+Recioto di Gambellara;Veneto;North;North-east
+Recioto di Soave;Veneto;North;North-east
+Riviera del Brenta;Veneto;North;North-east
+San Martino della Battaglia;Veneto;North;North-east
+Soave;Veneto;North;North-east
+Soave Superiore;Veneto;North;North-east
+Valdadige / Etschtaler;Veneto;North;North-east
+Valdadige Terradeiforti / Terradeiforti;Veneto;North;North-east
+Valpolicella;Veneto;North;North-east
+Valpolicella Classico;Veneto;North;North-east
+Valpolicella Ripasso;Veneto;North;North-east
+Venezia;Veneto;North;North-east
+Vicenza;Veneto;North;North-east
+Vigneti della Serenissima / Serenissima;Veneto;North;North-east
